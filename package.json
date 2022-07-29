@@ -1,0 +1,27 @@
+{
+  "name": "employee-tracker-m12",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3",
+    "node": "^18.7.0",
+    "node-bin-setup": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeyLiu518/Employee-Tracker-m12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeyLiu518/Employee-Tracker-m12/issues"
+  },
+  "homepage": "https://github.com/JoeyLiu518/Employee-Tracker-m12#readme"
+}
