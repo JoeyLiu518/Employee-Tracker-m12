@@ -1,12 +1,12 @@
 USE company_db;
 
-INSERT INTO departments(name)
+INSERT INTO departments (dept_name)
 VALUES('Support'),
 ('Engineering'),
 ('Sales'),
 ('Company Execs')
 
-INSERT INTO roles(salary, title, department_id)
+INSERT INTO roles (salary, title, department_id)
 VALUES(50000,'customer support',1),
 (100000,'engineer',2),
 (100000,'engineer',2)
